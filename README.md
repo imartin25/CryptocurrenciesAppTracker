@@ -3,6 +3,5 @@ This is a React App that allows users to search for cryptocurrency prices. The A
 
 ## Technologies Used
 - React
-- ReactDOM
 - HTML
 - CSS
